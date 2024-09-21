@@ -1,0 +1,19 @@
+groups:
+  - name: <group name 1>
+    interval: <evaluation Interval>
+    rules:
+      - record: <rule name 1>
+        expr: <promql expression 1> 
+        labels:
+          <label name>: <label value>
+      - record: <rule name 1>
+        expr: <promql expression 1> 
+        labels:
+          <label name>: <label value>
+  - name: <group name 2>
+    interval: <evaluation Interval>
+    rules:
+      - record: <rule name 1>
+        expr: <promql expression 1> 
+        labels:
+          <label name>: <label value>

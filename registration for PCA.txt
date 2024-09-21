@@ -1,0 +1,17 @@
+Some important certification details are listed below:
+
+    ​You will have 1.5 hours to complete the exam.​
+    The certification is valid for 3 years.​
+    This exam is online, proctored with multiple-choice questions.
+    One retake is available for this exam.
+
+Important links:
+
+    Prometheus Certified Associate(PCA) registration link: https://training.linuxfoundation.org/certification/prometheus-certified-associate/
+    Exam curriculum: https://github.com/cncf/curriculum/blob/master/PCA_Curriculum.pdf
+    ​Certification FAQs: https://docs.linuxfoundation.org/tc-docs/certification/frequently-asked-questions-pca
+    Candidate Handbook: https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2
+    ​To ensure your system meets the exam requirements, visit this link: https://syscheck.bridge.psiexams.com/
+    Important exams instructions to check before scheduling the exam: https://docs.linuxfoundation.org/tc-docs/certification/important-instructions-pca
+
+Head over to this link to enroll in the Certification Exam. Remember to keep the code – 20KODE – handy to get a 20% discount while registering for the PCA exam with Linux Foundation.
